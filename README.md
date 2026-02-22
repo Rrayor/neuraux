@@ -1,4 +1,5 @@
 # Neuraux
+
 <p align="center">
     <img src="assets/neuraux_logo.png" alt="Neuraux logo" width="240" />
 </p>
