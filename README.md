@@ -2,7 +2,7 @@
 <p align="center">
     <img src="assets/neuraux_logo.png" alt="Neuraux logo" width="240" />
 </p>
-An agentic development framework focused on **collaboration and assistance** over pure automation.
+An agentic development framework focused on <strong>collaboration and assistance</strong> over pure automation.
 
 > ⚠️ **Preview release**: Neuraux is still heavily work in progress and under active testing.
 
