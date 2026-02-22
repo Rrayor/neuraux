@@ -16,7 +16,7 @@ The **Specification Agent** is the first publicly available piece. It helps deve
 ## 🧩 Current Component: Specification Agent
 
 <p align="center">
-<img src="assets/specification_theme.png" alt="Specification theme" width="500" />
+    <img src="assets/specification_theme.png" alt="Specification theme" width="500" />
 </p>
 
 The specification agent is a multi-agent pack located in [specification-agent](specification-agent), with the canonical output contract documented in [specification-agent/SPECIFICATION.md](specification-agent/SPECIFICATION.md).
