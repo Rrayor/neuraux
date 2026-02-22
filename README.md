@@ -1,7 +1,7 @@
 # Neuraux
-
-![Neuraux logo](assets/neuraux_logo.png)
-
+<p align="center">
+    <img src="assets/neuraux_logo.png" alt="Neuraux logo" width="240" />
+</p>
 An agentic development framework focused on **collaboration and assistance** over pure automation.
 
 > ⚠️ **Preview release**: Neuraux is still heavily work in progress and under active testing.
@@ -14,7 +14,9 @@ The **Specification Agent** is the first publicly available piece. It helps deve
 
 ## 🧩 Current Component: Specification Agent
 
-![Specification theme](assets/specification_theme.png)
+<p align="center">
+<img src="assets/specification_theme.png" alt="Specification theme" width="500" />
+</p>
 
 The specification agent is a multi-agent pack located in [specification-agent](specification-agent), with the canonical output contract documented in [specification-agent/SPECIFICATION.md](specification-agent/SPECIFICATION.md).
 
